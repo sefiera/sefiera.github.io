@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sefiera.github.io/sitemap.html.gz
+Sitemap: https://sefiera.github.io/app/sitemap.html.gz
+Sitemap: https://sefiera.github.io/assets/sitemap.html.gz
+Sitemap: https://sefiera.github.io/css/sitemap.html.gz
+Sitemap: https://sefiera.github.io/includes/sitemap.html.gz
+Sitemap: https://sefiera.github.io/item/sitemap.html.gz
+Sitemap: https://sefiera.github.io/src/sitemap.html.gz
